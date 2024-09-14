@@ -1,0 +1,5 @@
+This is an implementation of Hash Tables with bloom filter. 
+This has insert, display, search, delete and search with bloom filter. 
+Bloom filter is a search algorithm that predicts if a element is present or not. 
+It never gives false negatives but rather gives false positives and we can further request on deep searches to find if element is actually present.
+It is used in search engines, recommendation systems, and for faster lookups
